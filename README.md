@@ -27,7 +27,7 @@ A WeChat integrated food ordering platform with admin dashboard, statistics, and
 
 export ops_config=local|production && python manage.py runserver
 
-## API Documentation
+## API
 
 The system provides RESTful APIs for:
 - Member management 
