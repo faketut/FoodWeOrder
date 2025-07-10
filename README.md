@@ -1,4 +1,4 @@
-# FoodWeOrder - Flask-WechatApplet Food Ordering System
+# FoodWeOrder: Flask-WechatApplet Food Ordering System
 
 A WeChat integrated food ordering platform with admin dashboard, statistics, and payment processing.
 
