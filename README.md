@@ -1,8 +1,8 @@
-# FoodWeOrder: Flask-WechatApplet Food Ordering System
+### FoodWeOrder: Flask-WechatApplet Food Ordering System
 
 A WeChat integrated food ordering platform with admin dashboard, statistics, and payment processing.
 
-## Features
+#### Features
 
 - **User Authentication**
   - Member login/registration via WeChat OAuth
@@ -23,11 +23,11 @@ A WeChat integrated food ordering platform with admin dashboard, statistics, and
   - Daily stats generation
   - Queue processing
 
-## Startup
+#### Startup
 
 export ops_config=local|production && python manage.py runserver
 
-## API
+#### API
 
 The system provides RESTful APIs for:
 - Member management 
@@ -36,6 +36,6 @@ The system provides RESTful APIs for:
 - Address management
 
 
-## License
+#### License
 
 MIT License (See LICENSE file for details)
